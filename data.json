@@ -1,0 +1,151 @@
+{
+  "blogs": [
+    {
+      "id": "ai-marketing-revolution",
+      "title": "The AI Marketing Revolution: How to Stay Ahead in 2025",
+      "category": "AI Marketing",
+      "date": "Feb 2025",
+      "read": "5 min read",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&auto=format&fit=crop",
+      "content": "The world of AI marketing is moving faster than ever. What worked last year might not work today. This deep dive uncovers how the most successful brands are leveraging AI to outpace competitors.",
+      "quote": "To stay ahead of the curve, brands must adapt to the new reality of digital consumption. It's not just about being seen; it's about being genuinely relevant.",
+      "sections": [
+        {
+          "title": "The Next Big Shift",
+          "paragraphs": [
+            "In today's rapidly evolving digital landscape, staying ahead means continuously adapting to new technologies and consumer behaviors. Brands that rely on yesterday's playbooks risk being left behind as competitors embrace innovation. Exploring deep into the core elements of modern marketing requires a synthesis of creativity and data.",
+            "By implementing thoughtful strategies rather than chasing fleeting trends, companies can establish sustainable growth engines. This involves a fundamental rewiring of how we approach customer acquisition, from first touchpoint to final conversion."
+          ],
+          "image": "http://localhost:8080/uploads/1779040339170-642332448.png"
+        },
+        {
+          "title": "Mastering the AI Toolset",
+          "paragraphs": [
+            "It's no longer enough to just 'use AI'. The real competitive advantage comes from how you integrate these tools into your existing workflows. From predictive analytics to generative content, the goal is to enhance human creativity, not replace it.",
+            "We've seen successful implementations where AI handles the heavy lifting of data analysis, allowing marketing teams to focus on high-level strategy and emotional connection."
+          ]
+        }
+      ],
+      "takeaways": [
+        "Understand the changing dynamics of your specific industry.",
+        "Invest in high-quality, authentic storytelling formats.",
+        "Leverage technology not as a replacement, but as an enabler of creativity.",
+        "Focus on building long-term community relationships over short-term gains."
+      ]
+    },
+    {
+      "id": "seo-chatgpt",
+      "title": "SEO in the Age of ChatGPT: What Every Brand Must Know",
+      "category": "SEO / AEO",
+      "date": "Jan 2025",
+      "read": "7 min read",
+      "image": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1?w=800&auto=format&fit=crop",
+      "content": "Search is changing. With AI overviews and large language models answering queries directly, traditional SEO isn't enough. It's time to shift your focus to AEO (Answer Engine Optimization) to stay visible.",
+      "quote": "Search engines are becoming answer engines. If your content doesn't answer the user's question directly, you're invisible.",
+      "sections": [
+        {
+          "title": "From Keywords to Conversations",
+          "paragraphs": [
+            "The traditional model of ranking for specific keywords is dying. AI models like ChatGPT and Gemini look for semantic meaning and authority. Your content needs to be more than just keyword-dense; it needs to be helpful.",
+            "AEO (Answer Engine Optimization) is the new SEO. It focuses on providing direct, concise, and accurate answers that AI models can easily parse and present to users."
+          ]
+        },
+        {
+          "title": "Building Authority in 2025",
+          "paragraphs": [
+            "Google's E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness) is more important than ever. AI can generate text, but it can't replicate lived experience. Brands that lean into their unique expertise will win.",
+            "Focus on creating original research, case studies, and expert opinions that can't be found elsewhere. This is the only way to build a sustainable search presence."
+          ]
+        }
+      ],
+      "takeaways": [
+        "Prioritize helpfulness over keyword density.",
+        "Optimize for direct answers to common user questions.",
+        "Focus on building original authority through unique data and research.",
+        "Monitor how AI overviews are treating your brand."
+      ]
+    },
+    {
+      "id": "shopify-not-converting",
+      "title": "Why Your Shopify Store Isn't Converting (And How to Fix It)",
+      "category": "E-Commerce",
+      "date": "Dec 2024",
+      "read": "4 min read",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&auto=format&fit=crop",
+      "content": "You've got traffic, but no sales. This is the classic e-commerce bottleneck. Discover the top five conversion killers on Shopify stores and the exact steps to eliminate them today.",
+      "quote": "A pretty website without a clear path to purchase is just a digital brochure. You need a conversion machine.",
+      "sections": [
+        {
+          "title": "The Speed Trap",
+          "paragraphs": [
+            "Every second counts. If your Shopify store takes more than 3 seconds to load, you're losing half your audience. Speed isn't just a technical metric; it's a UX requirement.",
+            "Optimize your images, prune your apps, and use a theme built for performance. These small changes can have a massive impact on your bottom line."
+          ]
+        },
+        {
+          "title": "Frictionless Checkout",
+          "paragraphs": [
+            "The biggest conversion killer is a complicated checkout process. Hide unnecessary fields, offer multiple payment options, and ensure the process is mobile-first.",
+            "We often see a 20%+ lift in sales just by implementing Shop Pay and Apple Pay for a smoother one-click experience."
+          ]
+        }
+      ],
+      "takeaways": [
+        "Optimize for mobile speed above all else.",
+        "Reduce the number of checkout fields to the absolute minimum.",
+        "Use high-quality product imagery and clear descriptions.",
+        "Leverage social proof and trust signals throughout the site."
+      ]
+    }
+  ],
+  "careers": [
+    {
+      "id": "1",
+      "title": "Performance Marketing Specialist",
+      "department": "Marketing",
+      "location": "Indore, MP (On-site)",
+      "type": "Full-time",
+      "description": "We are looking for a data-driven performance marketer with experience in scaling ad campaigns across Google and Meta platforms."
+    },
+    {
+      "id": "2",
+      "title": "Senior SEO Strategist",
+      "department": "SEO",
+      "location": "Indore, MP (On-site)",
+      "type": "Full-time",
+      "description": "Join our team to lead advanced SEO, AEO, and GEO optimization strategies for our global clients."
+    },
+    {
+      "id": "1779441565154",
+      "title": "Graphic Designer",
+      "department": "DEsign",
+      "location": "Remote",
+      "type": "Internship",
+      "description": "Skills- Canva "
+    }
+  ],
+  "applications": [
+    {
+      "id": "1779441466384",
+      "name": "sh Dewangan",
+      "email": "test3@gmail.com",
+      "phone": "+918987242",
+      "linkedin": "",
+      "position": "Senior SEO Strategist",
+      "coverLetter": "",
+      "resumeUrl": "http://localhost:3001/uploads/1779441466374-310660505.docx",
+      "appliedAt": "2026-05-22T09:17:46.384Z"
+    },
+    {
+      "id": "1779436502300",
+      "name": "Aayush Dewangan",
+      "email": "test3@gmail.com",
+      "phone": "+918524989242",
+      "linkedin": "",
+      "position": "Performance Marketing Specialist",
+      "coverLetter": "hii",
+      "resumeUrl": "http://localhost:3001/uploads/1779436502285-192377021.docx",
+      "appliedAt": "2026-05-22T07:55:02.300Z"
+    }
+  ]
+}
