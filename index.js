@@ -55,7 +55,8 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 /* ── Middleware ─────────────────────────────────────────── */
-app.use(express.json());
+app.use(express.json({ limit: '50mb' }));
+app.use(express.urlencoded({ limit: '50mb', extended: true }));
 app.use(
   cors({
     origin: function (origin, callback) {
@@ -266,7 +267,7 @@ app.post("/api/admin/login", (req, res) => {
 
 app.post("/api/upload", authenticateAdmin, upload.single("image"), (req, res) => {
   if (!req.file) return res.status(400).json({ error: "No file uploaded" });
-  const url = `http://localhost:${PORT}/uploads/${req.file.filename}`;
+  const url = `https://techsolvent.techsolvent.cloud/uploads/${req.file.filename}`;
   res.json({ success: true, url });
 });
 
@@ -363,7 +364,7 @@ app.post("/api/apply-job", upload.single("resume"), async (req, res) => {
   const data = readData();
   if (!data.applications) data.applications = [];
 
-  const resumeUrl = resume ? `http://localhost:${PORT}/uploads/${resume.filename}` : null;
+  const resumeUrl = resume ? `https://techsolvent.techsolvent.cloud/uploads/${resume.filename}` : null;
   const newApp = {
     id: Date.now().toString(),
     name,
